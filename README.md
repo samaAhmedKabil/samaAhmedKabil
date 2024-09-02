@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi I'm Sama Ahmed Ibrahim Kabil 👋
 
-<!--
-**samaAhmedKabil/samaAhmedKabil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋, my name is Sama
+#### I am Android Native Developer and Junior Data Analyst
+![I am Android Native Developer and Junior Data Analyst](https://drive.google.com/drive/home?lfhs=2)
 
-Here are some ideas to get you started:
+I worked on android platform for 2 years made lots of projects, and started my journey as Data Analyst in Augest 2024. 
+Not only Android and data analysis i worked also on Graphics, Games, SQL, Desktop apps.
+These provided me experience in OOP, Data Structures, Algorithms , Leadership, Presentations, .... more
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills: Java / Kotlin coroutines / C++ / Python / C# / json
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
+
