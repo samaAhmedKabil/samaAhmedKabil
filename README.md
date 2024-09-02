@@ -8,7 +8,13 @@ I worked on android platform for 2 years made lots of projects, and started my j
 Not only Android and data analysis i worked also on Graphics, Games, SQL, Desktop apps.
 These provided me experience in OOP, Data Structures, Algorithms , Leadership, Presentations, .... more
 
-Skills: Java / Kotlin coroutines / C++ / Python / C# / json
+Skills: 
+* Java
+* Kotlin coroutines
+* C++
+* Python
+* C#
+* json
 
 - 🔭 I’m currently working on this page. 
 
