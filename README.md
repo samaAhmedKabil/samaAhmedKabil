@@ -16,7 +16,25 @@ Skills:
 * C#
 * json
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on Android Platform 
+- 🌱 I’m currently learning AI Development 
+- 📫 How to reach me: https://www.linkedin.com/in/sama-kabil-02a607221/ 
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/samaAhmedKabil)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sama-kabil-02a607221/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/java.svg' alt='java' height='40'>](https://cdn-icons-png.flaticon.com/512/5968/5968350.png)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg' alt='python' height='40'>](https://cdn-icons-png.flaticon.com/512/5968/5968350.png)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/csharp.svg' alt='csharp' height='40'>](https://cdn-icons-png.flaticon.com/512/5968/5968350.png)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/c.svg' alt='c' height='40'>](https://cdn-icons-png.flaticon.com/512/5968/5968350.png)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kotlin.svg' alt='kotlin' height='40'>](https://cdn-icons-png.flaticon.com/512/5968/5968350.png)  
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=samaAhmedKabil)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samaAhmedKabil)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=samaAhmedKabil&show_icons=true&count_private=true)  
+
+
+
+
+
+
 
 
 
